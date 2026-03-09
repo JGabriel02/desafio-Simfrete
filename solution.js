@@ -239,5 +239,5 @@ async function rodarSistema() {
   rl.close();
 }
 
-// Aqui é onde o programa realmente começa
+
 rodarSistema();
